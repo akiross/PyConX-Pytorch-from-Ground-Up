@@ -1,4 +1,4 @@
-# PyCon9: PyTorch from Ground Up
+# PyConX: PyTorch from Ground Up
 
 This repo contains material for "PyTorch from Ground Up", a training session at [PyConX](http://pycon.it).
 The material in this repo is derived from the one from [PyCon9](https://github.com/orobix/PyCon9-Pytorch-from-Ground-Up) by orobix.
